@@ -418,3 +418,17 @@ Backend Repository:
 Frontend Repository:
 
 [GitHub - STI Frontend](https://github.com/emanuelarevalomartinez/STI-My_Frontend)
+
+---
+
+## 📌 Original Reference
+
+Original repositories:
+
+Backend Repository:
+
+[GitHub - STI Backend Original](https://github.com/isaias-dev-7/STI-Project-Backend)
+
+Frontend Repository:
+
+[GitHub - STI Frontend Original](https://github.com/isaias-dev-7/STI-Project-Frontend)
