@@ -1,8 +1,8 @@
 {
   "name": "sti-back",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "Backend API for an Intelligent Tutoring System (STI), designed to support academic management, personalized learning paths, educational resources, and AI-assisted tutoring workflows.",
+  "author": "Isaías Elieser Osoria Tabares",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -38,7 +38,7 @@
     "fs-extra": "^11.3.0",
     "jsonwebtoken": "^9.0.2",
     "moment": "^2.30.1",
-    "mysql": "^2.18.1",
+    "mysql2": "^3.22.3",
     "passport": "^0.7.0",
     "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
